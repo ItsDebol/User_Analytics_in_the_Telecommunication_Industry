@@ -1,6 +1,6 @@
 Performed Exploration data analysis on TellCo data
 
-Tasks Done
+Tasks Done  for this project include
 
 User Overview analysis
 
